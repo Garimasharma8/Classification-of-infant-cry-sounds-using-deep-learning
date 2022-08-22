@@ -9,11 +9,11 @@ Methodology adopted: We have created spectrogram images from cry sounds and pass
 ![image](https://user-images.githubusercontent.com/97305078/185963561-29f8e6fd-fd3b-4d15-8b98-f0673f1e528e.png)
 
 The other parameters are: 
-loss function = catergorical cross entropy
-optimizer = adam
-activation function = ReLu (for inner layers) and softmax (output layer).
-epochs = 100
-batch_size = 32
+loss function = catergorical cross entropy, 
+optimizer = adam, 
+activation function = ReLu (for inner layers) and softmax (output layer), 
+epochs = 100, 
+batch_size = 32.
 
 The model's accuracy and loss function's graph are:
 
